@@ -12,7 +12,7 @@ My name is Titan, and I am currently a Postdoctoral Researcher in [Solar Energy-
 
 In my free time, I enjoy cooking Indonesian food, reading, and museum hopping.
 
-# Research interests
+## Research interests
 
 * Perovskite solar cells
 * High-throughput experimentation
